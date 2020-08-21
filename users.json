@@ -4,7 +4,7 @@
       "name": "Sai",
       "phone": 9568874569,
       "email": "Sankara@ubq.in",
-      "status": "active",
+      "status": "Active",
       "password": "abc",
       "customers": [
         {
@@ -25,7 +25,7 @@
         "name": "Siva",
         "phone": 9588877458,
         "email": "Sparsh@ubq.in",
-        "status": "active",
+        "status": "Active",
         "password": "abc",
         "customers": [
           {
@@ -46,7 +46,7 @@
         "name": "Amith",
         "phone": 9568874569,
         "email": "ygcare@ubq.in",
-        "status": "active",
+        "status": "Active",
         "password": "abc",
         "customers": [
           {
@@ -67,7 +67,7 @@
         "name": "Kushi",
         "phone": 9588822465,
         "email": "Kushi@sankara.com",
-        "status": "active",
+        "status": "Active",
         "password": "abc",
         "customers": [
           {
@@ -88,7 +88,7 @@
         "name": "apex",
         "phone": 9568874569,
         "email": "apex@ubq.in",
-        "status": "active",
+        "status": "Active",
         "password": "abc",
         "customers": [
           {
@@ -109,7 +109,7 @@
           "name": "yarshd",
           "phone": 9588877458,
           "email": "yrash@ubq.in",
-          "status": "inactive",
+          "status": "InActive",
           "password": "abc",
           "customers": [
             {
@@ -130,7 +130,7 @@
           "name": "careyrg",
           "phone": 9568874569,
           "email": "care@ubq.in",
-          "status": "active",
+          "status": "Active",
           "password": "abc",
           "customers": [
             {
@@ -151,7 +151,7 @@
           "name": "kasi",
           "phone": 9588822465,
           "email": "kasi@ubq.in",
-          "status": "inactive",
+          "status": "InActive",
           "password": "abc",
           "customers": [
             {
