@@ -1,0 +1,189 @@
+{
+  "specialities": [
+    {
+      "specialityCode": "1",
+      "specialityName": "ANAESTHESIA",
+      "specialityId": "312854"
+    },
+    {
+      "specialityCode": "10",
+      "specialityName": "FETAL MEDICINE",
+      "specialityId": "312863"
+    },
+    {
+      "specialityCode": "11",
+      "specialityName": "GASTROENTEROLOGY",
+      "specialityId": "312864"
+    },
+    {
+      "specialityCode": "12",
+      "specialityName": "GENERAL MEDICINE",
+      "specialityId": "312865"
+    },
+    {
+      "specialityCode": "123",
+      "specialityName": "MAXILLOFACIAL SURGERY",
+      "specialityId": "330358"
+    },
+    {
+      "specialityCode": "13",
+      "specialityName": "LAB MEDICINE",
+      "specialityId": "312866"
+    },
+    {
+      "specialityCode": "14",
+      "specialityName": "MEDICAL ONCOLOGY",
+      "specialityId": "312867"
+    },
+    {
+      "specialityCode": "15",
+      "specialityName": "NEPHROLOGY",
+      "specialityId": "312868"
+    },
+    {
+      "specialityCode": "16",
+      "specialityName": "NEUROLOGY",
+      "specialityId": "312884"
+    },
+    {
+      "specialityCode": "17",
+      "specialityName": "NEUROSURGERY",
+      "specialityId": "312885"
+    },
+    {
+      "specialityCode": "18",
+      "specialityName": "NUTRITION & DIETETICS",
+      "specialityId": "312886"
+    },
+    {
+      "specialityCode": "19",
+      "specialityName": "OBSTETRICS AND GYNAECOLOGY",
+      "specialityId": "312887"
+    },
+    {
+      "specialityCode": "2",
+      "specialityName": "CARDIOLOGY",
+      "specialityId": "312855"
+    },
+    {
+      "specialityCode": "20",
+      "specialityName": "OPHTHALMOLOGY",
+      "specialityId": "312888"
+    },
+    {
+      "specialityCode": "21",
+      "specialityName": "PAEDIATRICS",
+      "specialityId": "312889"
+    },
+    {
+      "specialityCode": "22",
+      "specialityName": "PHYSIOTHERAPY AND REHABILITATION",
+      "specialityId": "312890"
+    },
+    {
+      "specialityCode": "23",
+      "specialityName": "PLASTIC & COSMETIC SURGERY",
+      "specialityId": "312891"
+    },
+    {
+      "specialityCode": "24",
+      "specialityName": "PSYCHIATRY",
+      "specialityId": "312892"
+    },
+    {
+      "specialityCode": "25",
+      "specialityName": "PULMONOLOGY AND CHEST MEDICINE",
+      "specialityId": "312893"
+    },
+    {
+      "specialityCode": "26",
+      "specialityName": "RADIOLOGY",
+      "specialityId": "312894"
+    },
+    {
+      "specialityCode": "27",
+      "specialityName": "SURGICAL ONCOLOGY",
+      "specialityId": "312895"
+    },
+    {
+      "specialityCode": "28",
+      "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+      "specialityId": "312896"
+    },
+    {
+      "specialityCode": "29",
+      "specialityName": "UROLOGY",
+      "specialityId": "312897"
+    },
+    {
+      "specialityCode": "3",
+      "specialityName": "CVTS(CARDIOVASCULAR & THORACIC SURGERY)",
+      "specialityId": "312856"
+    },
+    {
+      "specialityCode": "31",
+      "specialityName": "RHEUMATOLOGY",
+      "specialityId": "337194"
+    },
+    {
+      "specialityCode": "33",
+      "specialityName": "TRANSFUSION MEDICINE",
+      "specialityId": "450433"
+    },
+    {
+      "specialityCode": "4",
+      "specialityName": "DENTISTRY",
+      "specialityId": "312857"
+    },
+    {
+      "specialityCode": "5",
+      "specialityName": "DERMOTOLOGY",
+      "specialityId": "312858"
+    },
+    {
+      "specialityCode": "6",
+      "specialityName": "EMERGENCY AND INTENSIVE CARE",
+      "specialityId": "312859"
+    },
+    {
+      "specialityCode": "7",
+      "specialityName": "ENDOCRINOLOGY",
+      "specialityId": "312860"
+    },
+    {
+      "specialityCode": "8",
+      "specialityName": "ENT",
+      "specialityId": "312861"
+    },
+    {
+      "specialityCode": "9",
+      "specialityName": "FERTILITY MEDICINE",
+      "specialityId": "312862"
+    },
+    {
+      "specialityCode": "add1",
+      "specialityName": "AUDIOMETRY",
+      "specialityId": "337264"
+    },
+    {
+      "specialityCode": "HM001",
+      "specialityName": "HEMATOLOGY",
+      "specialityId": "337249"
+    },
+    {
+      "specialityCode": "INTERVENTIONAL",
+      "specialityName": "NEUROIMAGING INTERVENTIONAL RADIOLOGY",
+      "specialityId": "330376"
+    },
+    {
+      "specialityCode": "Neuro",
+      "specialityName": "NEURO SCIENCE",
+      "specialityId": "428273"
+    },
+    {
+      "specialityCode": "ort001",
+      "specialityName": "ORTHOPAEDICS",
+      "specialityId": "317070"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "hospitals": [
+    {
+      "hospitalId": "999",
+      "hospitalShortName": "YPR",
+      "hospitalAddress": "4/1, Tumkur Road, Yeshwantpur",
+      "hospitalName": "SPARSH Super Specialty Hospital",
+      "hospitalPhone": "08045108175",
+      "hospitalCode": "7346452"
+    },
+    {
+      "hospitalId": "99",
+      "hospitalShortName": "SHAS",
+      "hospitalAddress": "146, Infantry Road, Bangalore",
+      "hospitalName": "Sparsh Hospital For Advanced Surgeries",
+      "hospitalPhone": "08061222000",
+      "hospitalCode": "7557001"
+    },
+    {
+      "hospitalId": "901",
+      "hospitalShortName": "HSN ",
+      "hospitalAddress": "Banglore-Mangalore Road, Next To Bhanu Theatre, Hassan, Karnataka 573201",
+      "hospitalName": "SPARSH HASSAN ",
+      "hospitalPhone": "08172266022 ",
+      "hospitalCode": "7190421"
+    },
+    {
+      "hospitalId": "82",
+      "hospitalShortName": "HC",
+      "hospitalAddress": "#29/P2, The Health City, Bommasandra Industrial Area, Hosur Road",
+      "hospitalName": "SPARSH Hospital for Accidents Orthopaedics, Plastic & Maxillo Facial Surgery",
+      "hospitalPhone": "08061141000",
+      "hospitalCode": "7963102"
+    }
+  ]
+}

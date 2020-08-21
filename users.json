@@ -1,0 +1,172 @@
+{
+  "users": [
+    {
+      "name": "Sai",
+      "phone": 9568874569,
+      "email": "Sankara@ubq.in",
+      "status": "active",
+      "password": "abc",
+      "customers": [
+        {
+          "code": "123",
+          "name": "Guntur"
+        },
+        {
+          "code": "13",
+          "name": "Kpr"
+        },
+        {
+          "code": "19",
+          "name": "Chennai"
+        }
+      ]
+    },
+    {
+        "name": "Siva",
+        "phone": 9588877458,
+        "email": "Sparsh@ubq.in",
+        "status": "active",
+        "password": "abc",
+        "customers": [
+          {
+            "code": "123",
+            "name": "Guntur"
+          },
+          {
+            "code": "13",
+            "name": "Kpr"
+          },
+          {
+            "code": "19",
+            "name": "Chennai"
+          }
+        ]
+      },
+      {
+        "name": "Amith",
+        "phone": 9568874569,
+        "email": "ygcare@ubq.in",
+        "status": "active",
+        "password": "abc",
+        "customers": [
+          {
+            "code": "123",
+            "name": "Guntur"
+          },
+          {
+            "code": "13",
+            "name": "Kpr"
+          },
+          {
+            "code": "19",
+            "name": "Chennai"
+          }
+        ]
+      },
+      {
+        "name": "Kushi",
+        "phone": 9588822465,
+        "email": "Kushi@sankara.com",
+        "status": "active",
+        "password": "abc",
+        "customers": [
+          {
+            "code": "123",
+            "name": "Guntur"
+          },
+          {
+            "code": "13",
+            "name": "Kpr"
+          },
+          {
+            "code": "19",
+            "name": "Chennai"
+          }
+        ]
+      },
+      {
+        "name": "apex",
+        "phone": 9568874569,
+        "email": "apex@ubq.in",
+        "status": "active",
+        "password": "abc",
+        "customers": [
+          {
+            "code": "123",
+            "name": "Guntur"
+          },
+          {
+            "code": "13",
+            "name": "Kpr"
+          },
+          {
+            "code": "19",
+            "name": "Chennai"
+          }
+        ]
+      },
+      {
+          "name": "yarshd",
+          "phone": 9588877458,
+          "email": "yrash@ubq.in",
+          "status": "inactive",
+          "password": "abc",
+          "customers": [
+            {
+              "code": "123",
+              "name": "Guntur"
+            },
+            {
+              "code": "13",
+              "name": "Kpr"
+            },
+            {
+              "code": "19",
+              "name": "Chennai"
+            }
+          ]
+        },
+        {
+          "name": "careyrg",
+          "phone": 9568874569,
+          "email": "care@ubq.in",
+          "status": "active",
+          "password": "abc",
+          "customers": [
+            {
+              "code": "123",
+              "name": "Guntur"
+            },
+            {
+              "code": "13",
+              "name": "Kpr"
+            },
+            {
+              "code": "19",
+              "name": "Chennai"
+            }
+          ]
+        },
+        {
+          "name": "kasi",
+          "phone": 9588822465,
+          "email": "kasi@ubq.in",
+          "status": "inactive",
+          "password": "abc",
+          "customers": [
+            {
+              "code": "123",
+              "name": "Guntur"
+            },
+            {
+              "code": "13",
+              "name": "Kpr"
+            },
+            {
+              "code": "19",
+              "name": "Chennai"
+            }
+          ]
+        }
+  ]
+}

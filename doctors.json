@@ -1,0 +1,237 @@
+[
+
+            {
+                "doctorName": "SHWETA GUPTA",
+                "specialityCode": "19",
+                "doctorId": "4176",
+                "specialityName": "OBSTETRICS AND GYNAECOLOGY",
+                "doctorRegistrationNo": "49800",
+                "specialityId": "312887"
+            },
+            {
+                "doctorName": "SOMASHEKAR",
+                "specialityCode": "28",
+                "doctorId": "4749",
+                "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312896"
+            },
+            {
+                "doctorName": "SOWMYA",
+                "specialityCode": "9",
+                "doctorId": "4177",
+                "specialityName": "FERTILITY MEDICINE",
+                "doctorRegistrationNo": "",
+                "specialityId": "312862"
+            },
+            {
+                "doctorName": "Spoorthy Chandrakanth",
+                "specialityCode": "19",
+                "doctorId": "5599",
+                "specialityName": "OBSTETRICS AND GYNAECOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312887"
+            },
+            {
+                "doctorName": "SREEDHARA V",
+                "specialityCode": "28",
+                "doctorId": "4178",
+                "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+                "doctorRegistrationNo": "44894",
+                "specialityId": "312896"
+            },
+            {
+                "doctorName": "SRIHARI U S",
+                "specialityCode": "12",
+                "doctorId": "6506",
+                "specialityName": "GENERAL MEDICINE",
+                "doctorRegistrationNo": "76905",
+                "specialityId": "312865"
+            },
+            {
+                "doctorName": "Srinivas H",
+                "specialityCode": "ort001",
+                "doctorId": "4698",
+                "specialityName": "ORTHOPAEDICS",
+                "doctorRegistrationNo": "",
+                "specialityId": "317070"
+            },
+            {
+                "doctorName": "SUBRAMANIAN K.N",
+                "specialityCode": "ort001",
+                "doctorId": "5122",
+                "specialityName": "ORTHOPAEDICS",
+                "doctorRegistrationNo": "",
+                "specialityId": "317070"
+            },
+            {
+                "doctorName": "SUBRAMANYA RAO",
+                "specialityCode": "8",
+                "doctorId": "7074",
+                "specialityName": "ENT",
+                "doctorRegistrationNo": "",
+                "specialityId": "312861"
+            },
+            {
+                "doctorName": "Sudhakar Banakar",
+                "specialityCode": "26",
+                "doctorId": "4632",
+                "specialityName": "RADIOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312894"
+            },
+            {
+                "doctorName": "SUJALA S ARADHYA",
+                "specialityCode": "5",
+                "doctorId": "4179",
+                "specialityName": "DERMOTOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312858"
+            },
+            {
+                "doctorName": "SUKESH",
+                "specialityCode": "5",
+                "doctorId": "4180",
+                "specialityName": "DERMOTOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312858"
+            },
+            {
+                "doctorName": "SUMADEVI B",
+                "specialityCode": "19",
+                "doctorId": "4181",
+                "specialityName": "OBSTETRICS AND GYNAECOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312887"
+            },
+            {
+                "doctorName": "SUNIL PRABHAKAR UDGIRE",
+                "specialityCode": "27",
+                "doctorId": "6497",
+                "specialityName": "SURGICAL ONCOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312895"
+            },
+            {
+                "doctorName": "SUNITHA",
+                "specialityCode": "21",
+                "doctorId": "4718",
+                "specialityName": "PAEDIATRICS",
+                "doctorRegistrationNo": "69959",
+                "specialityId": "312889"
+            },
+            {
+                "doctorName": "THIRUNAVUKKARASU SHIVARAMAN",
+                "specialityCode": "1",
+                "doctorId": "4182",
+                "specialityName": "ANAESTHESIA",
+                "doctorRegistrationNo": "",
+                "specialityId": "312854"
+            },
+            {
+                "doctorName": "URVASHI BHATARA",
+                "specialityCode": "19",
+                "doctorId": "6794",
+                "specialityName": "OBSTETRICS AND GYNAECOLOGY",
+                "doctorRegistrationNo": "86419",
+                "specialityId": "312887"
+            },
+            {
+                "doctorName": "VAMSI KRISHNA",
+                "specialityCode": "28",
+                "doctorId": "8183",
+                "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+                "doctorRegistrationNo": "54861",
+                "specialityId": "312896"
+            },
+            {
+                "doctorName": "VARUN KUMAR J",
+                "specialityCode": "28",
+                "doctorId": "8185",
+                "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312896"
+            },
+            {
+                "doctorName": "VENI N",
+                "specialityCode": "19",
+                "doctorId": "5851",
+                "specialityName": "OBSTETRICS AND GYNAECOLOGY",
+                "doctorRegistrationNo": "87919",
+                "specialityId": "312887"
+            },
+            {
+                "doctorName": "VENKATACHALA",
+                "specialityCode": "27",
+                "doctorId": "4183",
+                "specialityName": "SURGICAL ONCOLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312895"
+            },
+            {
+                "doctorName": "VENU G R",
+                "specialityCode": "123",
+                "doctorId": "4611",
+                "specialityName": "MAXILLOFACIAL SURGERY",
+                "doctorRegistrationNo": "",
+                "specialityId": "330358"
+            },
+            {
+                "doctorName": "VENU MADHAV H.V",
+                "specialityCode": "ort001",
+                "doctorId": "6550",
+                "specialityName": "ORTHOPAEDICS",
+                "doctorRegistrationNo": "88222",
+                "specialityId": "317070"
+            },
+            {
+                "doctorName": "Vinay Kumaraswamy",
+                "specialityCode": "ort001",
+                "doctorId": "6451",
+                "specialityName": "ORTHOPAEDICS",
+                "doctorRegistrationNo": "",
+                "specialityId": "317070"
+            },
+            {
+                "doctorName": "VINCENT MANNAN",
+                "specialityCode": "28",
+                "doctorId": "8181",
+                "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+                "doctorRegistrationNo": "76746",
+                "specialityId": "312896"
+            },
+            {
+                "doctorName": "VINEET MANNAN",
+                "specialityCode": "28",
+                "doctorId": "6701",
+                "specialityName": "SURGICALGASTROENTEROLOGY AND GENERAL SURGERY",
+                "doctorRegistrationNo": "76746",
+                "specialityId": "312896"
+            },
+            {
+                "doctorName": "VINIT M  OSWAL",
+                "specialityCode": "ort001",
+                "doctorId": "7011",
+                "specialityName": "ORTHOPAEDICS",
+                "doctorRegistrationNo": "150159",
+                "specialityId": "317070"
+            },
+            {
+                "doctorName": "VIVEK",
+                "specialityCode": "25",
+                "doctorId": "6420",
+                "specialityName": "PULMONOLOGY AND CHEST MEDICINE",
+                "doctorRegistrationNo": "67644",
+                "specialityId": "312893"
+            },
+            {
+                "doctorName": "VIVEKANANDA M",
+                "specialityCode": "16",
+                "doctorId": "4185",
+                "specialityName": "NEUROLOGY",
+                "doctorRegistrationNo": "",
+                "specialityId": "312884"
+            }
+    
+
+]

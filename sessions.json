@@ -1,0 +1,16 @@
+{
+  "sessions": [
+    {
+      "sessionCode": "1",
+      "sessionName": "Morning"
+    },
+    {
+      "sessionCode": "2",
+      "sessionName": "Afternoon"
+    },
+    {
+      "sessionCode": "3",
+      "sessionName": "Evening"
+    }
+  ]
+}

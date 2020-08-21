@@ -1,0 +1,307 @@
+[{
+        "hospitalId": 99,
+        "hospitalName": "SPARSH Yeshwanthpur",
+        "address": "ypr",
+        "phoneNumber": 9989898782,
+        "doctorAppointments": [{
+                "doctorId": 123,
+                "doctorName": "Dr. Aparna",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM"
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+
+                ]
+            },
+            {
+                "doctorId": 143,
+                "doctorName": "Dr.Sruthi",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM"
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+                ]
+            },
+            {
+                "doctorId": 23,
+                "doctorName": "Dr. Anand",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "nikon",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM"
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hospitalId": 999,
+        "hospitalName": "SPARSH Yeshwanthpur",
+        "address": "ypr",
+        "phoneNumber": 9989898782,
+        "doctorAppointments": [{
+                "doctorId": 123,
+                "doctorName": "Dr.AmirKhan",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+
+                ]
+            },
+            {
+                "doctorId": 143,
+                "doctorName": "Dr.Sachin",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM"
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    }
+                ]
+            },
+            {
+                "doctorId": 23,
+                "doctorName": "Dr.Ragna",
+                "appointments": [{
+                        "time": "12:00 PM"
+                    },
+                    {
+                        "time": "12:10 PM"
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hospitalId": 901,
+        "hospitalName": "SPARSH Infantry",
+        "address": "INF",
+        "phoneNumber": 9989898783,
+        "doctorAppointments": [{
+                "doctorId": 123,
+                "doctorName": "Dr.Bonjovi",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+
+                ]
+            },
+            {
+                "doctorId": 143,
+                "doctorName": "Dr.Maya",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM"
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "hospitalId": 82,
+        "hospitalName": "SPARSH Infantry",
+        "address": "INF",
+        "phoneNumber": 9989898783,
+        "doctorAppointments": [
+
+            {
+                "doctorId": 123,
+                "doctorName": "Dr.Lagartha",
+                "appointments": [{
+                        "time": "12:00 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:10 PM",
+                        "patientName": "Jyoti Mishra",
+                        "patientMRN": "YPR/20/11987",
+                        "patientPhone": "9845654323",
+                        "bookingNumber": "YPR/26/7/198",
+                        "appointmentId": 56786
+                    },
+                    {
+                        "time": "12:20 PM"
+                    },
+                    {
+                        "time": "12:30 PM"
+                    },
+                    {
+                        "time": "12:40 PM"
+                    },
+                    {
+                        "time": "12:50 PM"
+                    }
+
+                ]
+            }
+        ]
+    }
+]

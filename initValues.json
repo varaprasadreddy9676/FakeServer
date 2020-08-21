@@ -1,0 +1,16 @@
+{
+  "init": [
+    {
+      "currentDate": "10/08/2020",
+      "currentTime": "18:00",
+      "defaultSession":  {
+        "sessionCode": "1",
+        "sessionName": "Morning"
+      },
+      "defaultSpeciality": {
+        "specialityCode": "12",
+        "specialityName": "GeneralMedicine"
+      }
+    }
+  ]
+}
